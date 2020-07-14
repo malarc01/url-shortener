@@ -22,6 +22,9 @@
   "homepage": "https://github.com/malarc01/url-shortener#readme",
   "dependencies": {
     "express": "^4.17.1",
-    "node-url-shortener": "^1.0.1"
+    "node-url-shortener": "^1.0.1",
+    "pg": "^8.3.0",
+    "pg-hstore": "^2.3.3",
+    "sequelize": "^6.3.3"
   }
 }
