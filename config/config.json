@@ -1,6 +1,6 @@
 {
   "development": {
-    "username": "a",
+    "username": "ab",
     "password": null,
     "database": "urlshortener_development",
     "host": "localhost",
