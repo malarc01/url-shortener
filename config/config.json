@@ -1,6 +1,6 @@
 {
   "development": {
-    "username": "melky",
+    "username": "test",
     "password": null,
     "database": "urlshortener_development",
     "host": "localhost",
@@ -8,14 +8,14 @@
     "operatorsAliases": false
   },
   "test": {
-    "username": "root",
+    "username": "test",
     "password": null,
     "database": "database_test",
     "host": "127.0.0.1",
     "dialect": "postgres"
   },
   "production": {
-    "username": "root",
+    "username": "test",
     "password": null,
     "database": "database_production",
     "host": "127.0.0.1",
