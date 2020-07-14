@@ -19,5 +19,8 @@
   "bugs": {
     "url": "https://github.com/malarc01/url-shortener/issues"
   },
-  "homepage": "https://github.com/malarc01/url-shortener#readme"
+  "homepage": "https://github.com/malarc01/url-shortener#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
 }
