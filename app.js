@@ -3,8 +3,10 @@ const app = express();
 const path = require('path')
 const port = 3333
 const bodyParser = require('body-parser');
+const urlShortener = require('node-url-shortener');
 
-
+express.json()
+express.urlencoded()
 
 app.use(bodyParser.urlencoded({ extended: true }));
 app.use(express.urlencoded());

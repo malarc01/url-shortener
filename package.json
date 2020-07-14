@@ -21,6 +21,7 @@
   },
   "homepage": "https://github.com/malarc01/url-shortener#readme",
   "dependencies": {
-    "express": "^4.17.1"
+    "express": "^4.17.1",
+    "node-url-shortener": "^1.0.1"
   }
 }
